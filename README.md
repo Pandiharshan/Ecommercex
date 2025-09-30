@@ -1,4 +1,4 @@
-# Ecommercex
-
-Ecommercex is a simple e-commerce web application with product listing, cart, and checkout features.  
-Built using modern web technologies for learning and practice.
+![GitHub Repo stars](https://img.shields.io/github/stars/Pandiharshan/Ecommercex?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Pandiharshan/Ecommercex?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Pandiharshan/Ecommercex)
+![GitHub license](https://img.shields.io/github/license/Pandiharshan/Ecommercex)
